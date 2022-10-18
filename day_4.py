@@ -1,6 +1,4 @@
-
-
-
+#learning about the pandas library 
 import pandas as pd
 
 import matplotlib

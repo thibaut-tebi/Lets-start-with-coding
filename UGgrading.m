@@ -1,6 +1,4 @@
-%id = 10922160
-%name = andrews kofi blemano
-%department = mten
+%calculating the University of Ghana Grade using Matlab 
 
 function UGgrading() 
 %This fuction outputs one's grade depending on the mark entered 

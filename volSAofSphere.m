@@ -1,6 +1,4 @@
-%id = 10922160
-%name = andrews kofi blemano
-%department = mten
+%calculating the volume of a sphere using MATLAB 
 
 function [volume, SA] = volSAofSphere(r)
 r = input('Enter the radius:');

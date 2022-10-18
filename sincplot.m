@@ -1,6 +1,4 @@
-%id = 10908528
-%name = jeff jay
-%dept. = mten
+%sinplot using MATLAB 
 
 x = pi/100:pi/100:10*pi;
 y = sin(x)./x;
